@@ -1,0 +1,16 @@
+---
+title: "Help"
+format: 
+  html:
+    toc: true
+---
+
+## CAS Admin Dashboard
+
+This dashboard is designed to facilitate common database queries and provide high level overviews of the data. Explanations of the available options are provided below.
+
+### Box Counts
+
+Select this option to view the number of boxes per grouping variable. The grouping variable can be selected from the dropdown menu. The results can be downloaded as an Excel file by clicking the "Download Results" button.
+
+

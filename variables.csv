@@ -1,0 +1,5 @@
+﻿variable,trm_ID,rec_RecTypeID,dtl_DetailTypeID,parent_rec_RecTypeID,parent_DetailTypeID
+Accession,,109,1160,115,
+Site,,91,1254,115,
+Owner,,4,1154,91,1254
+Land Status,13079,,1343,91,1254
